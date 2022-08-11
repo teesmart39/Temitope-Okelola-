@@ -11,7 +11,7 @@ I'm a Software Engineer and a Diploma in software engineering student at [Altsch
 - 🌱 I’m currently learning Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer(Intern or Junior level).
-- 📫 You can contact me by emailing okelolatemitopeoluwaseun@gmail.com.
+- 📫 You can contact me by emailing mailtookelolatemitopeoluwaseun@gmail.com.
 
 ---
 
